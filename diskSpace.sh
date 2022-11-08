@@ -15,7 +15,7 @@ UPDATE_FILE=USED_PERC
 if [ "$UPDATE_FILE" -gt "50" ]
   then
     echo "Disk space is okay for now"
-else:
+else
   echo "good for now"
 fi
 
